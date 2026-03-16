@@ -1,21 +1,126 @@
-# 💫 About Me:
-Hi 👋, I'm Sarthak Kothiyal, **a developer driven by curiosity and a love for clean, impactful code**.  <br>🔭 I’m currently working on projects that **solve real problems and push my technical limits**<br>🌱 I’m currently learning cutting-edge technologies and best practices used in production systems<br>💬 Ask me about **building applications from scratch, optimizing performance, and developer best practices**  <br>💬 Ask me about **DSA, LeetCode strategies, backend development, and writing efficient code**<br>🧩 Solved **500+ DSA problems across arrays, trees, graphs, DP, and recursion**<br>📫 How to reach me: sarthakkotihyal83@gmail.com  <br>⚡ Fun fact: I enjoy breaking things—just so I can rebuild them better
+# Hello, I'm Sarthak Kothiyal 👋
 
+**India** 🇮🇳 | **Developer driven by curiosity and a love for clean, impactful code**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UUn4etW2hq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthak66) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-kothiyal-22b824347) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sarthakkothiyal83)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sarthak0__0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakkothiyal83@gmail.com) 
+*Software Developer | DSA Enthusiast | Problem Solver*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Srthk00&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Srthk00&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srthk00&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Welcome to my GitHub profile! I am passionate about building real-world applications and constantly pushing my technical limits. I enjoy solving complex problems, writing efficient code, and exploring modern technologies used in production systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Srthk00&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Technologies & Tools
+
+**Programming Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+  </a>
+</p>
+
+**Web Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+
+**Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
+
+**AI / Data / Computer Vision**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+  </a>
+</p>
+
+**Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,blender,vscode,webstorm" />
+  </a>
+</p>
+
+---
+
+### Specializations
+
+**Data Structures & Algorithms**
+
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge)  
+![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20Problems-orange?style=for-the-badge)
+
+**Backend & System Thinking**
+
+![Backend Development](https://img.shields.io/badge/Backend-Development-green?style=for-the-badge)  
+![Performance Optimization](https://img.shields.io/badge/Performance-Optimization-red?style=for-the-badge)
+
+---
+
+### Projects & Focus
+
+**Building real-world applications from scratch**
+
+- Scalable backend systems  
+- Performance optimized applications  
+- Algorithm-heavy problem solving  
+- Developer productivity tools  
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srthk00&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" />
+</p>
+
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Srthk00&theme=midnight-purple&hide_border=false" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srthk00&theme=midnight-purple&layout=compact" />
+</p>
+
+---
+
+### LeetCode Stats
+
+<p align="left">
+  <a href="https://leetcode.com/u/Sarthak_Kothiyal/">
+    <img src="https://leetcard.jacoblin.cool/Sarthak_Kothiyal?theme=dark&font=Recursive&ext=activity" alt="Sarthak_Kothiyal LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+### Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthak66)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-kothiyal-22b824347)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakkothiyal83@gmail.com)
+
+---
+
+### Fun Fact
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Sarthak Kothiyal";
+    this.role = "Software Developer";
+    this.skills = ["DSA", "Frontend Development", "Backend Development", "Machine Learning"];
+    this.problemsSolved = "600+";
+  }
+
+  getMindset() {
+    return "I enjoy breaking things — just so I can rebuild them better.";
+  }
+}
+
+const me = new Developer();
+console.log(me.getMindset());
